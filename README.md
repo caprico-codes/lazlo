@@ -30,13 +30,5 @@ npm install lazlo-node
 * Extensive use of terminal styling (Eg. Success messages are displayed in green & errors are displayed in red)
 * Command auto-completion available (Eg. Type create & press tab. You will get recommendations for all commands starting with create).
 * Powerful inbuilt logger which logs all the transactions.
-* Special features (Eg. Display all records in a document for a given creation date).
 
-## Major third party libraries used :
-* vorpal js
-* msgpack-lite
-* chalk
-* simple-node-logger
-* edit-json-file
-
-## For usage info refer the [docs](http://lazlodb.me/home)
+## For usage info refer the [docs](http://lazlodb.me/start)
