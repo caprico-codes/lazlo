@@ -31,4 +31,4 @@ npm install lazlo-node
 * Command auto-completion available (Eg. Type create & press tab. You will get recommendations for all commands starting with create).
 * Powerful inbuilt logger which logs all the transactions.
 
-## For usage info refer the [docs](http://lazlodb.me/start)
+## Get started [here](http://lazlodb.me/start)
