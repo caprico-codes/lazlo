@@ -39,4 +39,4 @@ npm install lazlo-node
 * simple-node-logger
 * edit-json-file
 
-## For usage info refer the [docs](https://github.com/zaygozi/lazlodb/wiki)
+## For usage info refer the [docs](http://lazlodb.me/home)
