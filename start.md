@@ -9,10 +9,10 @@
 * Documents are not human readable as they contain compressed msgpack encoded buffer.
 
 ### UTILITIES
-* [Database Utilities](https://github.com/zaygozi/lazlodb/wiki/database-utilities)
-* [Document Utilities](https://github.com/zaygozi/lazlodb/wiki/document-utilities)
+* [Database Utilities](http://lazlodb.me/database-utilities)
+* [Document Utilities](http://lazlodb.me/document-utilities)
 * Bucket Utilities (Coming Soon)
 * Migration Utilities (Coming Soon)
-* [Logs](https://github.com/zaygozi/lazlodb/wiki/logging)
+* [Logs](http://lazlodb.me/logging)
 
-### Check out these [examples](https://github.com/zaygozi/lazlodb/wiki/examples)
+### Check out these [examples](http://lazlodb.me/examples)
