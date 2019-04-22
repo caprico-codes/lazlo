@@ -11,8 +11,7 @@
 ### UTILITIES
 * [Database Utilities](http://lazlodb.me/database-utilities)
 * [Document Utilities](http://lazlodb.me/document-utilities)
-* Bucket Utilities (Coming Soon)
-* Migration Utilities (Coming Soon)
 * [Logs](http://lazlodb.me/logging)
+* [Node Library](http://lazlodb.me/lazlo-node)
 
 ### Check out these [examples](http://lazlodb.me/examples)
