@@ -12,7 +12,7 @@ npm install -g lazlodb
 ```sh
 lazlo
 ```
-* Lightweight Node JS Library (Official Repository : [lazlo-node](https://github.com/zaygozi/lazlo-node))
+* Lightweight Node JS Library
 ```sh
 npm install lazlo-node
 ```
