@@ -9,10 +9,10 @@
 * Documents are not human readable as they contain compressed msgpack encoded buffer.
 
 ### UTILITIES
-* [Database Utilities](http://lazlodb.me/database-utilities)
-* [Document Utilities](http://lazlodb.me/document-utilities)
-* [Logs](http://lazlodb.me/logging)
-* [Node Library](http://lazlodb.me/lazlo-node)
-* [API (Beta)](http://lazos.lazlodb.me)
+* [Database Utilities](https://lazlodb.me/database-utilities)
+* [Document Utilities](https://lazlodb.me/document-utilities)
+* [Logs](https://lazlodb.me/logging)
+* [Node Library](https://lazlodb.me/lazlo-node)
+* [API (Beta)](https://lazos.lazlodb.me)
 
-### Check out these [examples](http://lazlodb.me/examples)
+### Check out these [examples](https://lazlodb.me/examples)
