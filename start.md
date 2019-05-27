@@ -13,6 +13,5 @@
 * [Document Utilities](https://lazlodb.me/document-utilities)
 * [Logs](https://lazlodb.me/logging)
 * [Node Library](https://lazlodb.me/lazlo-node)
-* [API (Beta)](https://lazos.lazlodb.me)
 
 ### Check out these [examples](https://lazlodb.me/examples)
