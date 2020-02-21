@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaygozi/zeeka/master/lazlo-logo-max.png">
+  <img src="https://raw.githubusercontent.com/zaygozi/lazlodb.github.io/master/lazlo-logo-max.png">
 </p>
 
 ### Lazlo is a portable, compact & serverless NoSql database built using Node JS & MessagePack
