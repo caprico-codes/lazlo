@@ -11,7 +11,7 @@
 * DR : Data removal
 * DU : Data update
 
-#### View screenshots [here](http://lazlodb.me/examples)
+#### View screenshots [here](http://www.lazlodb.gq/examples)
 
 #### log
 This command displays the log file on the terminal
