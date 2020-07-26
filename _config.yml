@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 title: lazlo db
-description: A serverless NoSql database designed for portable & embedded systems
+description: A lightweight, portable and serverless NoSql database
 github:
   repository_url: https://github.com/zaygozi/lazlodb
