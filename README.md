@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaygozi/lazlodb.github.io/master/lazlo-logo-max.png">
+  <img src="https://raw.githubusercontent.com/zelaxo/lazlodb.github.io/master/lazlo-logo-max.png">
 </p>
 
 ### Lazlo is a portable, compact & serverless NoSql database built using Node JS & MessagePack
@@ -33,4 +33,4 @@ npm install lazlo-node
 * Command auto-completion available (Eg. Type create & press tab. You will get recommendations for all commands starting with create).
 * Powerful inbuilt logger which logs all the transactions.
 
-## Get started [here](http://www.lazlodb.gq/start)
+## Get started [here](http://lazlo.yenvo.io/start)
