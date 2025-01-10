@@ -11,7 +11,7 @@
 * DR : Data removal
 * DU : Data update
 
-#### View screenshots [here](http://www.lazlodb.gq/examples)
+#### View screenshots [here](https://lazlo.caprico.io/examples)
 
 #### log
 This command displays the log file on the terminal
