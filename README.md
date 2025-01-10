@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/caprico-codes/lazlo/master/lazlo-logo-max.png">
 </p>
