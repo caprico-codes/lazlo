@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zelaxo/lazlo/master/lazlo-logo-max.png">
+  <img src="https://raw.githubusercontent.com/caprico-codes/lazlo/master/lazlo-logo-max.png">
 </p>
 
-### Lazlo is a portable, compact & serverless NoSql database built using Node JS & MessagePack
+### Lazlo is a serverless NoSql database built using Node JS & MessagePack
 
 ## Installation
 * Full Database
@@ -33,4 +33,4 @@ npm install lazlo-node
 * Command auto-completion available (Eg. Type create & press tab. You will get recommendations for all commands starting with create).
 * Powerful inbuilt logger which logs all the transactions.
 
-## Get started [here](http://lazlo.yenvo.io/start)
+## Get started [here](https://lazlo.caprico.io/start)
